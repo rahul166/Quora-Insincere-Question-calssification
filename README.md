@@ -9,7 +9,7 @@ Two submission on which final scoring was done is
 1> (name of the submission) submission_my_real1.csv -> score 0.63633 (best) (Which is seen on leader board)
 
 	
-
+Report.pdf -> is the report which describes different things we tried and all the machine learning models that we tried
 best_score.py		(Without stemming)
 vis.py			(For EDA)
 
